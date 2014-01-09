@@ -1,0 +1,24 @@
+{
+  "name": "node-batch",
+  "version": "0.0.0",
+  "description": "a command line tool and lib for handling a list of job",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:NStal/node-batch.git"
+  },
+  "keywords": [
+    "batch"
+  ],
+  "author": "NStal",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/NStal/node-batch/issues"
+  },
+  "dependencies": {
+    "async": "~0.2.9"
+  }
+}
